@@ -1,0 +1,1 @@
+web: python squawk77.py --port=$port
